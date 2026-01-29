@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "copyId": "UT999-ABC123",
-      "token": "SOME_SECRET_TOKEN",
+      "copyId": "UT999-VT5PW4",
+      "token": "ss",
       "active": true,
       "days": 30
     }
