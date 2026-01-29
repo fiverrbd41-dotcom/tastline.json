@@ -8,3 +8,13 @@
     }
   ]
 }
+{
+  "users": [
+    {
+      "copyId": "UT999-VT5PW4",
+      "token": "12345",
+      "active": true,
+      "days": 7
+    }
+  ]
+}
