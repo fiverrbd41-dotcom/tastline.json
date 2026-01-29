@@ -2,7 +2,7 @@
   "users": [
     {
       "copyId": "UT999-BRPQ4A",
-      "token": "SOME_SECRET_TOKEN",
+      "token": "cc",
       "active": true,
       "days": 7
     }
