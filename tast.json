@@ -1,1 +1,11 @@
+{
+  "users": [
+    {
+      "copyId": "UT999",
+      "token": "cc",
+      "active": true,
+      "days": 7
+    }
+  ]
+}
 
