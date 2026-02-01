@@ -1,20 +1,11 @@
 {
   "users": [
     {
-      "copyId": "UT999-VT5PW4",
+      "copyId": "UT999-EC4LKY",
       "token": "ss",
       "active": true,
       "days": 30
     }
   ]
 }
-{
-  "users": [
-    {
-      "copyId": "UT999-EC4LKY",
-      "token": "mahadi41",
-      "active": true,
-      "days": 30
-    }
-  ]
-}
+
