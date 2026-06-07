@@ -8,3 +8,13 @@
     }
   ]
 }
+{
+  "users": [
+    {
+      "copyId": "UT999-RKY6M7",
+      "token": "HEFJULX7B9Q2LZ",
+      "active": true,
+      "days": 30
+    }
+  ]
+}
