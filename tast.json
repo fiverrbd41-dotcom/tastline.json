@@ -8,4 +8,13 @@
     }
   ]
 }
-
+{
+  "users": [
+    {
+      "copyId": "UT999-SNS98Z",
+      "token": "ss",
+      "active": true,
+      "days": 30
+    }
+  ]
+}
