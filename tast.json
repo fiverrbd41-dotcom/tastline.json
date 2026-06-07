@@ -8,13 +8,4 @@
     }
   ]
 }
-{
-  "users": [
-    {
-      "copyId": "UT999-AHO1TI",
-      "token": "ss",
-      "active": true,
-      "days": 30
-    }
-  ]
-}
+
