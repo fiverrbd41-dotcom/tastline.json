@@ -8,4 +8,13 @@
     }
   ]
 }
-
+{
+  "users": [
+    {
+      "copyId": "UT999-EC4LKO",
+      "token": "ss",
+      "active": true,
+      "days": 30
+    }
+  ]
+}
